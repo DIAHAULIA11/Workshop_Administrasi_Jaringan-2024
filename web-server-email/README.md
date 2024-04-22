@@ -42,6 +42,7 @@
    ```bash
    timedatectl
    ```
+   ![Check](Img/ss-time.jpg)
 
 ## Apache 2 + PHP-FM
 
@@ -77,6 +78,7 @@
    ```
 
    <!--
+
 
 3. Melakukan test ke web browser
 
