@@ -81,7 +81,7 @@
 
 3. Melakukan test ke web browser
 
-   ![Test apache](assets/apache2mockup.png)
+   ![Test apache](assets/test-browser.PNG)
 
 4. Install PHP 8.2
 
@@ -359,10 +359,13 @@
 
 Akan terlihat hasilnyaseperti dibawah, dengan status Server (LISTEN) : MariaDB(MySQL), IMAP, POP3, DNS(domain), IMAPS, POP3S, SSH, Postﬁx (SMTP)
 
-![final cek](assets/net_stat.png)
+![final cek](assets/netstat.PNG)
 
 Melakukan Cek terhadap Layanan Posﬁx
 
 ```bash
 telnet mail.kelompok4.local 25
 ```
+
+Send Message anatar domain
+![final cek](assets/send-message.PNG)
